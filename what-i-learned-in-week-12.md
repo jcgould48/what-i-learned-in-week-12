@@ -22,11 +22,11 @@ Links to these sites.
 
 
 ### Object Oriented Programming
-A way to organize information so that everything has a type of something.  
+A way to organize information so that everything has a type of something, a blueprint under the hood.
 
 
 Functional Methods
 
 APIs
 
-<turkey>
+![Happy Thanksgiving!](turkey.jpeg)
