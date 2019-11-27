@@ -14,13 +14,16 @@ Manipulating the DOM versus storing the data.  For some apps the data may not to
 
 Bootstrap and other sights are resources online for access to quick CSS items.  By putting the link in your HTML, you can easily add code that adds new features and style to a webpage or app.
 
-Som
-Materialize CSS
-Bootstrap
-Semantic UI
-Bulma
+Links to these sites.
+* [Materialize CSS](https://materializecss.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Semantic UI](https://semantic-ui.com/)
+* [Bulma](https://bulma.io/)
 
-Object Oriented Programming
+
+### Object Oriented Programming
+A way to organize information so that everything has a type of something.  
+
 
 Functional Methods
 
