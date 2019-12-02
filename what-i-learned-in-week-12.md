@@ -24,9 +24,11 @@ Links to these sites.
 ### Object Oriented Programming
 A way to organize information so that everything has a type of something, a blueprint under the hood.
 
+Queue - FIFO
+Stack - FILO
 
-Functional Methods
 
-APIs
 
+
+## Happy Thanksgiving!
 ![Happy Thanksgiving!](turkey.jpeg)
